@@ -1,8 +1,8 @@
 ### Olá, eu sou a Suellen!
   <div>
   <a href="https://github.com/SuellenMoreiraLima">
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellenMoreiraLima&layout=compact&langs_count=7&theme=dracula"/_>   
-  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=SuellenMoreiraLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellenMoreiraLima&layout=compact&langs_count=7&theme=dracula"/_>   
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=SuellenMoreiraLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
 /__>
 </div>
 <Div style = "display: inline_block"><br>
