@@ -5,8 +5,8 @@
 ###
   <div>
   <a href="https://github.com/SuellenMoreiraLima">
-      <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellenMoreiraLima&layout=compact&langs_count=7&theme=dracula"/_>   
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=SuellenMoreiraLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellenMoreiraLima&layout=compact&langs_count=7&theme=dracula"/_>   
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=SuellenMoreiraLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
 /__>
 
 </div>
@@ -16,9 +16,10 @@
   <img align="center" alt="Su-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Su-angular" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Su-typescript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Su-typescript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
    <img align="center" alt="Su-java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Su-mysql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-  <img align="center" alt="Su-CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="Su-spring" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
     <img align="right" alt="Su" height="165" width="165" src="https://i.picasion.com/pic91/5cca4b25d529132746ae92c00777bfda.gif">
   
 
