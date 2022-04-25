@@ -1,4 +1,4 @@
-### Olá, mru nome é Suellen e sou desenvolvedora trainee de Angular e Spring boot!
+### Olá, meu nome é Suellen e sou desenvolvedora trainee de Angular e Spring boot!
   <div>
   <a href="https://github.com/SuellenMoreiraLima">
       <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellenMoreiraLima&layout=compact&langs_count=7&theme=dracula"/_>   
