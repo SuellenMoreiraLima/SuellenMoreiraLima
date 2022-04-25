@@ -15,7 +15,7 @@
    <img align="center" alt="Su-java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Su-mysql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="Su-CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-    <img align="right" alt="Su" height="135" width="135" src="https://i.picasion.com/pic91/5cca4b25d529132746ae92c00777bfda.gif">
+    <img align="right" alt="Su" height="165" width="165" src="https://i.picasion.com/pic91/5cca4b25d529132746ae92c00777bfda.gif">
   
 
 </div>
