@@ -1,5 +1,5 @@
 ###
-### Olá, meu nome é Suellen e sou desenvolvedora trainee de Angular e Spring boot!
+### Olá, meu nome é Suellen e sou desenvolvedora Full Stack trainee de Angular e Java!
 ###
 ###
 ###
