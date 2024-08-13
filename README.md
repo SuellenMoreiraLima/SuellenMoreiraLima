@@ -1,35 +1,70 @@
 ###
-### Olá, meu nome é Suellen e sou desenvolvedora Full Stack Java e Angular!
+### 🌸 Suellen Moreira Lima
 ###
-###
-###
-  <div>
-  <a href="https://github.com/SuellenMoreiraLima">
-      <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellenMoreiraLima&layout=compact&langs_count=7&theme=dracula"/_>   
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=SuellenMoreiraLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/__>
-</div>
-<Div style = "display: inline_block"><br>
-<img align="center" alt="Su-java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-  <img align="center" alt="Su-spring" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-   <img align="center" alt="Su-mysql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-  <img align="center" alt="Su-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Su-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Su-angular" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Su-typescript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Su-typescript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-    <img align="right" alt="Su" height="165" width="165" src="https://i.picasion.com/pic91/5cca4b25d529132746ae92c00777bfda.gif">
-  
+<div style="display: flex; align-items: center;">
 
+  <img height="169em" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />      
+  <a href="https://github.com/SuellenMoreiraLima">      
+    <img height="169em" src="https://github-readme-stats.vercel.app/api?username=SuellenMoreiraLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>            
+  </a>
 </div>
-  
-  #
-  
+
+
+### 
+Oi, tudo bem? Eu sou a **Suellen Moreira Lima**, uma desenvolvedora Full Stack apaixonada por criar soluções que façam a diferença! Trabalho principalmente com **Java (Spring Boot)** e **Angular**, e adoro transformar ideias em projetos reais. Com dois anos de experiência, estou sempre buscando aprender algo novo e me aprimorar naquilo que faço.
+
+### 💖 Minhas Paixões Tecnológicas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&color=ff69b4)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&color=ff69b4)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&color=ff69b4)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=ff69b4)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&color=ff69b4)
+
+
+### ✨ Outras Habilidades
+- Containers com **Docker**
+- Design e implementação de **APIs REST**
+
   <div>
-  <a href="https://www.linkedin.com/in/suellen-moreira-lima-035638169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href = "mailto:sulima19977991@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/su_moreira_lima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="Suellen_Lima#7765" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white "target =" _ blank "> </a>
-     
+  
   ![Snake animation](https://github.com/SuellenMoreiraLima/SuellenMoreiraLima/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+
+## 💼 Experiência
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGkxa3E5YmN2MGdqY3IycjVhamM2cXZpa3NkNHZzdm5pYWpjdmd4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif" width="250" alt="Demo GIF"/>
+
+### NAVA
+**Desenvolvedora Full Stack**  
+*03/2022 - 04/2024*
+
+Na NAVA, trabalhei como Desenvolvedora Full Stack, contribuindo significativamente para o desenvolvimento de soluções de software. Durante meu tempo na empresa, estive envolvida em diversos projetos, desde a implementação de funcionalidades até a manutenção e melhoria contínua dos sistemas. Minhas responsabilidades incluíam:
+
+- Desenvolvimento e manutenção de aplicações utilizando **Java (Spring Boot)** e **Angular**.
+- Colaboração com equipes multifuncionais para identificar e resolver problemas técnicos.
+- Participação ativa em reuniões de planejamento e desenvolvimento ágil, garantindo entregas dentro do prazo e com alta qualidade.
+
+## 💎 Projetos que Amo
+
+### 🎀 [Projeto 1: Sistema de Balanceamento de Clientes](https://github.com/suellenlima/projeto-balanceamento-clientes)
+Desenvolvido com carinho e muito código em Java, esse sistema distribui clientes de forma eficiente entre CSs. 💼Desenvolvido com carinho e muito código em Java, esse sistema distribui clientes de forma eficiente entre CSs. 💼Desenvolvido com carinho e muito código em Java, esse sistema distribui clientes de forma eficiente entre CSs. 💼Desenvolvido com carinho e muito código em Java, esse sistema distribui clientes de forma eficiente entre CSs. 💼
+
+![Demo GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+### 🌸 [Projeto 2: Dashboard Interativo com Angular](https://github.com/suellenlima/dashboard-angular)
+Um dashboard lindo e funcional, feito com Angular para mostrar dados em tempo real de maneira super intuitiva.
+
+![Dashboard GIF](https://media.giphy.com/media/1msBrT7FMHqlu/giphy.gif)
+
+## 🎯 O Que Estou Buscando
+
+Estou em busca de oportunidades que me desafiem e me permitam crescer. Quero continuar contribuindo com projetos que fazem a diferença e aprender cada vez mais.Estou em busca de oportunidades que me desafiem e me permitam crescer. Quero continuar contribuindo com projetos que fazem a diferença e aprender cada vez mais.
+
+## 📫 Vamos nos Conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suellen@example.com)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suellen@example.com)
+
+---
+
+🌟 **"Codando com amor e dedicação, sempre!"** 🌟
