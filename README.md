@@ -67,4 +67,5 @@ Estou em busca de oportunidades que me desafiem e me permitam crescer. Quero con
 
 ---
 
-🌟 **"Codando com amor e dedicação, sempre!"** 🌟
+🌟 **"Codando com amor e dedicação, sempre!"** 
+<img src="https://media.tenor.com/j1HZ3bN5X5sAAAAi/animr-anime-girl.gif" width="350" alt="Demo GIF"/>
