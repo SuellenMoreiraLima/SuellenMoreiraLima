@@ -5,7 +5,7 @@
 
   <img height="169em" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />      
   <a href="https://github.com/SuellenMoreiraLima">      
-    <img height="169em" src="https://github-readme-stats.vercel.app/api?username=SuellenMoreiraLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>            
+    <img height="169em" src="https://github-readme-stats.vercel.app/api?username=SuellenMoreiraLima&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>            
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 Oi, tudo bem? Eu sou a **Suellen Moreira Lima**, uma desenvolvedora Full Stack apaixonada por criar soluções que façam a diferença! Trabalho principalmente com **Java (Spring Boot)** e **Angular**, e adoro transformar ideias em projetos reais. Com dois anos de experiência, estou sempre buscando aprender algo novo e me aprimorar naquilo que faço.
 
 ### 💖 Minhas Paixões Tecnológicas
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&color=ff69b4)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&color=ff69b4)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&color=ff69b4)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&color=ff69b4)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=ff69b4)
