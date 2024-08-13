@@ -5,7 +5,7 @@
 
   <img height="169em" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />      
   <a href="https://github.com/SuellenMoreiraLima">      
-    <img height="169em" src="https://github-readme-stats.vercel.app/api?username=SuellenMoreiraLima&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>            
+    <img height="169em" src="https://github-readme-stats.vercel.app/api?username=SuellenMoreiraLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>            
   </a>
 </div>
 
