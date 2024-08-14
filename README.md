@@ -24,6 +24,7 @@ Oi, tudo bem? Eu sou a **Suellen Moreira Lima**, uma desenvolvedora Full Stack a
 ### ✨ Outras Habilidades
 - Containers com **Docker**
 - **AWS**
+- Testes unitários com **JUnit**
 - Design e implementação de **APIs REST**
 
   <div>
