@@ -46,7 +46,7 @@ Na NAVA, trabalhei como Desenvolvedora Full Stack, contribuindo significativamen
 - Colaboração com equipes multifuncionais para identificar e resolver problemas técnicos.
 - Participação ativa em reuniões de planejamento e desenvolvimento ágil, garantindo entregas dentro do prazo e com alta qualidade.
 
-## 💎 Projetos que Amo
+<!--## 💎 Projetos que Amo
 
 ### 🎀 [Projeto 1: Sistema de Balanceamento de Clientes](https://github.com/suellenlima/projeto-balanceamento-clientes)
 Desenvolvido com carinho e muito código em Java, esse sistema distribui clientes de forma eficiente entre CSs. 💼Desenvolvido com carinho e muito código em Java, esse sistema distribui clientes de forma eficiente entre CSs. 💼Desenvolvido com carinho e muito código em Java, esse sistema distribui clientes de forma eficiente entre CSs. 💼Desenvolvido com carinho e muito código em Java, esse sistema distribui clientes de forma eficiente entre CSs. 💼
@@ -56,7 +56,7 @@ Desenvolvido com carinho e muito código em Java, esse sistema distribui cliente
 Um dashboard lindo e funcional, feito com Angular para mostrar dados em tempo real de maneira super intuitiva.
 
 ![Dashboard GIF](https://media.giphy.com/media/1msBrT7FMHqlu/giphy.gif)
-
+-->
 ## 🎯 O Que Estou Buscando
 
 Estou em busca de oportunidades que me desafiem e me permitam crescer. Quero continuar contribuindo com projetos que fazem a diferença e aprender cada vez mais.Estou em busca de oportunidades que me desafiem e me permitam crescer. Quero continuar contribuindo com projetos que fazem a diferença e aprender cada vez mais.
