@@ -35,8 +35,6 @@ Oi, tudo bem? Eu sou a **Suellen Moreira Lima**, uma desenvolvedora Full Stack a
 ## 💼 Experiência
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGkxa3E5YmN2MGdqY3IycjVhamM2cXZpa3NkNHZzdm5pYWpjdmd4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif" width="250" alt="Demo GIF"/>
-
-![Dashboard GIF](https://media.giphy.com/media/1msBrT7FMHqlu/giphy.gif)
 -->
 ## 🎯 O Que Estou Buscando
 
