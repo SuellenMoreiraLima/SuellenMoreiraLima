@@ -5,13 +5,13 @@
 
   <img height="169em" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />      
   <a href="https://github.com/SuellenMoreiraLima">      
-    <img height="169em" src="https://github-readme-stats.vercel.app/api?username=SuellenMoreiraLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>            
+        
   </a>
 </div>
 
 
 ### 
-Oi, tudo bem? Eu sou a **Suellen Moreira Lima**, uma desenvolvedora Full Stack apaixonada por criar soluções que façam a diferença! Trabalho principalmente com **Java (Spring Boot)** e **Angular**, e adoro transformar ideias em projetos reais. Com dois anos de experiência, estou sempre buscando aprender algo novo e me aprimorar naquilo que faço.
+Oi, tudo bem? Eu sou a **Suellen Moreira Lima**, uma desenvolvedora Full Stack apaixonada por criar soluções que façam a diferença! Trabalho principalmente com **Java (Spring Boot)** e **Angular**, e adoro transformar ideias em projetos reais.
 
 ### 💖 Minhas Paixões Tecnológicas
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&color=ff69b4)
@@ -22,7 +22,7 @@ Oi, tudo bem? Eu sou a **Suellen Moreira Lima**, uma desenvolvedora Full Stack a
 
 
 ### ✨ Outras Habilidades
-- Containers com **Docker**
+- **Azure**
 - **AWS**
 - Testes unitários com **JUnit**
 - Design e implementação de **APIs REST**
@@ -35,25 +35,6 @@ Oi, tudo bem? Eu sou a **Suellen Moreira Lima**, uma desenvolvedora Full Stack a
 ## 💼 Experiência
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGkxa3E5YmN2MGdqY3IycjVhamM2cXZpa3NkNHZzdm5pYWpjdmd4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.gif" width="250" alt="Demo GIF"/>
-
-### NAVA
-**Desenvolvedora Full Stack**  
-*03/2022 - 04/2024*
-
-Na NAVA, trabalhei como Desenvolvedora Full Stack, contribuindo significativamente para o desenvolvimento de soluções de software. Durante meu tempo na empresa, estive envolvida em diversos projetos, desde a implementação de funcionalidades até a manutenção e melhoria contínua dos sistemas. Minhas responsabilidades incluíam:
-
-- Desenvolvimento e manutenção de aplicações utilizando **Java (Spring Boot)** e **Angular**.
-- Colaboração com equipes multifuncionais para identificar e resolver problemas técnicos.
-- Participação ativa em reuniões de planejamento e desenvolvimento ágil, garantindo entregas dentro do prazo e com alta qualidade.
-
-<!--## 💎 Projetos que Amo
-
-### 🎀 [Projeto 1: Sistema de Balanceamento de Clientes](https://github.com/suellenlima/projeto-balanceamento-clientes)
-Desenvolvido com carinho e muito código em Java, esse sistema distribui clientes de forma eficiente entre CSs. 💼Desenvolvido com carinho e muito código em Java, esse sistema distribui clientes de forma eficiente entre CSs. 💼Desenvolvido com carinho e muito código em Java, esse sistema distribui clientes de forma eficiente entre CSs. 💼Desenvolvido com carinho e muito código em Java, esse sistema distribui clientes de forma eficiente entre CSs. 💼
-
-![Demo GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-### 🌸 [Projeto 2: Dashboard Interativo com Angular](https://github.com/suellenlima/dashboard-angular)
-Um dashboard lindo e funcional, feito com Angular para mostrar dados em tempo real de maneira super intuitiva.
 
 ![Dashboard GIF](https://media.giphy.com/media/1msBrT7FMHqlu/giphy.gif)
 -->
