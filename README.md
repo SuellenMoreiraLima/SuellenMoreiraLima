@@ -11,7 +11,7 @@
 
 
 ### 
-Oi, tudo bem? Eu sou a **Suellen Moreira Lima**, uma desenvolvedora Full Stack apaixonada por criar soluções que façam a diferença! Trabalho principalmente com **Java (Spring Boot)** e **Angular**, e adoro transformar ideias em projetos reais.
+Oi, tudo bem? Eu sou a **Suellen**, uma desenvolvedora Full Stack apaixonada por criar soluções que façam a diferença! Trabalho principalmente com **Java (Spring Boot)** e **Angular**, e adoro transformar ideias em projetos reais.
 
 ### 💖 Minhas Paixões Tecnológicas
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&color=ff69b4)
